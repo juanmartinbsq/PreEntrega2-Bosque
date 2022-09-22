@@ -1,0 +1,20 @@
+/* header */
+.texto-logo {
+    font-weight: 600;
+    font-family:'sarawi ghotic';
+    font-size: 1.5rem;
+}
+.font-alt {
+    font-weight: 700;
+    font-family: 'Playfair Display SC', serif;
+}
+.navbar {
+    padding: 5vh;
+}
+.nav-link {
+    color: #1c4c96;
+    font-weight:600;
+}
+.nav-link:hover {
+    color: #cb0ed3;
+}
